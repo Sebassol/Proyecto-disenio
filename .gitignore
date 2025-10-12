@@ -1,0 +1,25 @@
+# Flutter
+**/build/
+**/.dart_tool/
+**/.packages
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/pubspec.lock
+**/ios/Pods/
+**/ios/.symlinks/
+
+# Android
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+
+# Archivos temporales
+.DS_Store
+*.swp
+*.swo
+Thumbs.db
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.iml
