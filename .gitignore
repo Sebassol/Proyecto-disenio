@@ -1,4 +1,5 @@
 # Flutter
+<<<<<<< HEAD
 /build/
 /.dart_tool/
 /.packages
@@ -14,6 +15,21 @@
 # iOS
 /ios/Pods/
 /ios/.symlinks/
+=======
+**/build/
+**/.dart_tool/
+**/.packages
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/pubspec.lock
+**/ios/Pods/
+**/ios/.symlinks/
+
+# Android
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+>>>>>>> 302fdc060dba1f8d1a340fd683927e3ca768f964
 
 # Archivos temporales
 .DS_Store
@@ -24,4 +40,8 @@ Thumbs.db
 # Archivos de IDE
 .vscode/
 .idea/
+<<<<<<< HEAD
 *.iml
+=======
+*.iml
+>>>>>>> 302fdc060dba1f8d1a340fd683927e3ca768f964
